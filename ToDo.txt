@@ -1,0 +1,3 @@
+1. Have the option to find by xpath
+2. ability to select the class names in terminal
+3. have a GUI for the project and an executable
